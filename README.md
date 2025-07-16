@@ -121,5 +121,3 @@ with open("my_model.pkl", "rb") as f:
 This project is for educational and demonstration purposes.
 
 ---
-
-**Author:** Your Name Here
